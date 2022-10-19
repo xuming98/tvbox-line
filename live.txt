@@ -1001,7 +1001,17 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8?blog.ntnas.
 	CHC高清电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
         CHC家庭影院,http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 	TVB经典功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-	
+	CHC家庭影院,http://111.20.33.79/PLTV/88888893/224/3221226462/index.m3u8$超清1080P
+CHC家庭影院,http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8$超清1080P
+CHC家庭影院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8$超清1080P
+CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8$超清1080P
+CHC动作电影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888893/224/3221226465/index.m3u8$超清1080P
+CHC动作电影,http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893/224/3221226465/index.m3u8$超清1080P
+CHC动作电影,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8$超清1080P
+CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8$超清1080P
+CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8$超清1080P
+CHC高清电影,http://111.20.33.79/PLTV/88888893/224/3221226463/index.m3u8$超清1080P
+CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8$超清1080P
 	
 	
 	
