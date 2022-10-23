@@ -659,8 +659,8 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3
 
 	
 	【财经】,#genre#
-	第一财经,https://szlive.yicai.com/live/cbnsz.m3u8?auth_key=1666479369-0-0-0cc1a0220bcd91954190ac3bae362311&ycfrom=yicaiwww
-	第一财经,https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1666479369-0-0-64ede9ae28058ad5feaae7a9ecce6207&ycfrom=yicaiwww
+	第一财经,https://szlive.yicai.com/live/cbnsz.m3u8?auth_key=1666565860-0-0-c189abbd82c6ef6ebd6c667bd0ed4c45&ycfrom=yicaiwww
+	第一财经,https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1666565860-0-0-c189abbd82c6ef6ebd6c667bd0ed4c45&ycfrom=yicaiwww
 	
 	
 	
